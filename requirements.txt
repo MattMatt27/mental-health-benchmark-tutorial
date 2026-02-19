@@ -1,0 +1,18 @@
+# Core dependencies (needed for all notebooks and analysis)
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+
+# API clients (needed only if running your own benchmark experiment)
+openai
+anthropic
+google-genai
+tqdm
+python-dotenv
+
+# Reasoning embedding analysis
+scikit-learn
+sentence-transformers
+umap-learn

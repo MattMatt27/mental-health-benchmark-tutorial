@@ -1,0 +1,26 @@
+# Credentials
+.env
+
+# Virtual environment
+.venv/
+
+# User-generated tutorial output
+tutorial-results/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Generated outputs (regenerate with src/ scripts)
+figures/
+embeddings/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE artifacts
+.virtual_documents/
+anaconda_projects/

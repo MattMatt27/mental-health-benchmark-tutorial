@@ -1,0 +1,55 @@
+model,temperature,prompt_variant,siri2_score,n_items,mean_abs_error,model_display,prompt_display
+claude-opus-4-20250514,0,detailed,19.48,48,0.4058333333333333,Claude Opus 4,Detailed
+claude-opus-4-20250514,1,detailed,19.56,48,0.4075,Claude Opus 4,Detailed
+claude-opus-4-20250514,1,detailed_w_reasoning,26.14,48,0.5445833333333333,Claude Opus 4,Detailed + reasoning
+claude-opus-4-20250514,0,detailed_w_reasoning,28.12,48,0.5858333333333333,Claude Opus 4,Detailed + reasoning
+claude-sonnet-4-20250514,1,detailed_w_reasoning,28.46,48,0.5929166666666666,Claude Sonnet 4,Detailed + reasoning
+claude-sonnet-4-20250514,1,detailed,28.46,48,0.5929166666666666,Claude Sonnet 4,Detailed
+claude-sonnet-4-20250514,0,detailed_w_reasoning,29.400000000000002,48,0.6125,Claude Sonnet 4,Detailed + reasoning
+claude-sonnet-4-20250514,0,detailed,29.54,48,0.6154166666666666,Claude Sonnet 4,Detailed
+gemini-2.5-pro,1,minimal,32.14,48,0.6695833333333333,Gemini 2.5 Pro,Minimal
+claude-3-5-sonnet-20241022,1,detailed,33.58,48,0.6995833333333333,Claude 3.5 Sonnet,Detailed
+gemini-2.5-pro,0,minimal,35.48,48,0.7391666666666666,Gemini 2.5 Pro,Minimal
+gemini-2.5-flash,1,minimal,36.5,48,0.7604166666666666,Gemini 2.5 Flash,Minimal
+claude-sonnet-4-20250514,1,minimal,37.44,48,0.7799999999999999,Claude Sonnet 4,Minimal
+claude-3-5-sonnet-20241022,1,detailed_w_reasoning,37.7,48,0.7854166666666668,Claude 3.5 Sonnet,Detailed + reasoning
+claude-sonnet-4-20250514,0,minimal,37.72,48,0.7858333333333333,Claude Sonnet 4,Minimal
+claude-3-5-sonnet-20241022,0,detailed_w_reasoning,39.2,48,0.8166666666666668,Claude 3.5 Sonnet,Detailed + reasoning
+claude-3-5-sonnet-20241022,0,detailed,40.34,48,0.8404166666666667,Claude 3.5 Sonnet,Detailed
+gemini-2.5-flash,0,minimal,40.62,48,0.84625,Gemini 2.5 Flash,Minimal
+gemini-2.5-flash,1,detailed_w_reasoning,40.96,48,0.8533333333333334,Gemini 2.5 Flash,Detailed + reasoning
+claude-3-5-haiku-20241022,1,detailed,41.9,48,0.8729166666666667,Claude 3.5 Haiku,Detailed
+gemini-2.5-pro,1,detailed,42.72,48,0.89,Gemini 2.5 Pro,Detailed
+claude-opus-4-20250514,1,minimal,42.86,48,0.8929166666666667,Claude Opus 4,Minimal
+claude-3-5-haiku-20241022,0,detailed_w_reasoning,42.9,48,0.8937499999999999,Claude 3.5 Haiku,Detailed + reasoning
+gemini-2.5-pro,0,detailed_w_reasoning,43.08,48,0.8975,Gemini 2.5 Pro,Detailed + reasoning
+claude-3-5-haiku-20241022,0,detailed,43.1,48,0.8979166666666667,Claude 3.5 Haiku,Detailed
+gpt-4o,0,minimal,43.4,48,0.9041666666666667,GPT-4o,Minimal
+gemini-2.5-pro,1,detailed_w_reasoning,43.48,48,0.9058333333333333,Gemini 2.5 Pro,Detailed + reasoning
+claude-3-5-sonnet-20241022,0,minimal,43.56,48,0.9075000000000001,Claude 3.5 Sonnet,Minimal
+gemini-2.5-flash,1,detailed,43.699999999999996,48,0.9104166666666665,Gemini 2.5 Flash,Detailed
+gpt-4o,0,detailed,43.8,48,0.9125,GPT-4o,Detailed
+claude-3-5-haiku-20241022,1,detailed_w_reasoning,44.0,48,0.9166666666666666,Claude 3.5 Haiku,Detailed + reasoning
+gpt-4o,0,detailed_w_reasoning,44.96,48,0.9366666666666666,GPT-4o,Detailed + reasoning
+gemini-2.5-pro,0,detailed,45.3,48,0.94375,Gemini 2.5 Pro,Detailed
+gpt-4o,1,detailed,45.32,48,0.9441666666666667,GPT-4o,Detailed
+gpt-4o,1,detailed_w_reasoning,45.42,48,0.94625,GPT-4o,Detailed + reasoning
+gemini-2.0-flash,1,minimal,46.92,48,0.9775,Gemini 2.0 Flash,Minimal
+gemini-2.5-flash,0,detailed_w_reasoning,47.18,48,0.9829166666666667,Gemini 2.5 Flash,Detailed + reasoning
+claude-opus-4-20250514,0,minimal,47.72,48,0.9941666666666666,Claude Opus 4,Minimal
+gemini-2.0-flash,1,detailed,47.78,48,0.9954166666666667,Gemini 2.0 Flash,Detailed
+gemini-2.0-flash,0,minimal,47.9,48,0.9979166666666667,Gemini 2.0 Flash,Minimal
+gemini-2.0-flash,0,detailed_w_reasoning,48.08,48,1.0016666666666667,Gemini 2.0 Flash,Detailed + reasoning
+gemini-2.0-flash,0,detailed,48.68,48,1.0141666666666667,Gemini 2.0 Flash,Detailed
+gemini-2.0-flash,1,detailed_w_reasoning,49.5,48,1.03125,Gemini 2.0 Flash,Detailed + reasoning
+gpt-3.5-turbo-0125,0,detailed_w_reasoning,50.1,48,1.04375,GPT-3.5 Turbo,Detailed + reasoning
+gpt-4o,1,minimal,50.42,48,1.0504166666666668,GPT-4o,Minimal
+gpt-3.5-turbo-0125,1,detailed_w_reasoning,52.22,48,1.0879166666666666,GPT-3.5 Turbo,Detailed + reasoning
+claude-3-5-sonnet-20241022,1,minimal,52.92,48,1.1025,Claude 3.5 Sonnet,Minimal
+gemini-2.5-flash,0,detailed,53.24,48,1.1091666666666666,Gemini 2.5 Flash,Detailed
+gpt-3.5-turbo-0125,0,detailed,55.8,48,1.1624999999999999,GPT-3.5 Turbo,Detailed
+gpt-3.5-turbo-0125,1,detailed,56.32,48,1.1733333333333333,GPT-3.5 Turbo,Detailed
+claude-3-5-haiku-20241022,1,minimal,71.74,48,1.4945833333333332,Claude 3.5 Haiku,Minimal
+gpt-3.5-turbo-0125,0,minimal,75.66,48,1.57625,GPT-3.5 Turbo,Minimal
+claude-3-5-haiku-20241022,0,minimal,76.24,48,1.5883333333333332,Claude 3.5 Haiku,Minimal
+gpt-3.5-turbo-0125,1,minimal,84.0,48,1.75,GPT-3.5 Turbo,Minimal

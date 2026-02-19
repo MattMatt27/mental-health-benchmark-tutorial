@@ -1,0 +1,89 @@
+respondent,type,siri2_score,model,condition,source
+"Claude Opus 4 (Detailed, T=0)",model,19.5,Claude Opus 4,"Detailed, T=0",This study (API)
+"Claude Opus 4 (Detailed, T=1)",model,19.6,Claude Opus 4,"Detailed, T=1",This study (API)
+"Claude Opus 4 (Detailed + reasoning, T=1)",model,26.1,Claude Opus 4,"Detailed + reasoning, T=1",This study (API)
+"Claude Opus 4 (Detailed + reasoning, T=0)",model,28.1,Claude Opus 4,"Detailed + reasoning, T=0",This study (API)
+"Claude Sonnet 4 (Detailed, T=1)",model,28.5,Claude Sonnet 4,"Detailed, T=1",This study (API)
+"Claude Sonnet 4 (Detailed + reasoning, T=1)",model,28.5,Claude Sonnet 4,"Detailed + reasoning, T=1",This study (API)
+"Claude Sonnet 4 (Detailed + reasoning, T=0)",model,29.4,Claude Sonnet 4,"Detailed + reasoning, T=0",This study (API)
+"Claude Sonnet 4 (Detailed, T=0)",model,29.5,Claude Sonnet 4,"Detailed, T=0",This study (API)
+"Gemini 2.5 Pro (Minimal, T=1)",model,32.1,Gemini 2.5 Pro,"Minimal, T=1",This study (API)
+Expert suicidologists (panel mean),expert_panel,32.5,,,Neimeyer & Bonnelle 1997
+"Claude 3.5 Sonnet (Detailed, T=1)",model,33.6,Claude 3.5 Sonnet,"Detailed, T=1",This study (API)
+"Gemini 2.5 Pro (Minimal, T=0)",model,35.5,Gemini 2.5 Pro,"Minimal, T=0",This study (API)
+"Gemini 2.5 Flash (Minimal, T=1)",model,36.5,Gemini 2.5 Flash,"Minimal, T=1",This study (API)
+Claude 3.5 Sonnet (chat tool),llm_chat_tool,36.65,,,McBain et al. 2025
+"Claude Sonnet 4 (Minimal, T=1)",model,37.4,Claude Sonnet 4,"Minimal, T=1",This study (API)
+"Claude Sonnet 4 (Minimal, T=0)",model,37.7,Claude Sonnet 4,"Minimal, T=0",This study (API)
+"Claude 3.5 Sonnet (Detailed + reasoning, T=1)",model,37.7,Claude 3.5 Sonnet,"Detailed + reasoning, T=1",This study (API)
+"Claude 3.5 Sonnet (Detailed + reasoning, T=0)",model,39.2,Claude 3.5 Sonnet,"Detailed + reasoning, T=0",This study (API)
+"Claude 3.5 Sonnet (Detailed, T=0)",model,40.3,Claude 3.5 Sonnet,"Detailed, T=0",This study (API)
+"Gemini 2.5 Flash (Minimal, T=0)",model,40.6,Gemini 2.5 Flash,"Minimal, T=0",This study (API)
+"Gemini 2.5 Flash (Detailed + reasoning, T=1)",model,41.0,Gemini 2.5 Flash,"Detailed + reasoning, T=1",This study (API)
+Master's counselors (post),human,41.0,,,Neimeyer & Bonnelle 1997
+"Claude 3.5 Haiku (Detailed, T=1)",model,41.9,Claude 3.5 Haiku,"Detailed, T=1",This study (API)
+"Gemini 2.5 Pro (Detailed, T=1)",model,42.7,Gemini 2.5 Pro,"Detailed, T=1",This study (API)
+"Claude Opus 4 (Minimal, T=1)",model,42.9,Claude Opus 4,"Minimal, T=1",This study (API)
+"Claude 3.5 Haiku (Detailed + reasoning, T=0)",model,42.9,Claude 3.5 Haiku,"Detailed + reasoning, T=0",This study (API)
+"Gemini 2.5 Pro (Detailed + reasoning, T=0)",model,43.1,Gemini 2.5 Pro,"Detailed + reasoning, T=0",This study (API)
+"Claude 3.5 Haiku (Detailed, T=0)",model,43.1,Claude 3.5 Haiku,"Detailed, T=0",This study (API)
+"GPT-4o (Minimal, T=0)",model,43.4,GPT-4o,"Minimal, T=0",This study (API)
+"Gemini 2.5 Pro (Detailed + reasoning, T=1)",model,43.5,Gemini 2.5 Pro,"Detailed + reasoning, T=1",This study (API)
+"Claude 3.5 Sonnet (Minimal, T=0)",model,43.6,Claude 3.5 Sonnet,"Minimal, T=0",This study (API)
+"Gemini 2.5 Flash (Detailed, T=1)",model,43.7,Gemini 2.5 Flash,"Detailed, T=1",This study (API)
+"GPT-4o (Detailed, T=0)",model,43.8,GPT-4o,"Detailed, T=0",This study (API)
+"Claude 3.5 Haiku (Detailed + reasoning, T=1)",model,44.0,Claude 3.5 Haiku,"Detailed + reasoning, T=1",This study (API)
+"GPT-4o (Detailed + reasoning, T=0)",model,45.0,GPT-4o,"Detailed + reasoning, T=0",This study (API)
+"GPT-4o (Detailed, T=1)",model,45.3,GPT-4o,"Detailed, T=1",This study (API)
+"Gemini 2.5 Pro (Detailed, T=0)",model,45.3,Gemini 2.5 Pro,"Detailed, T=0",This study (API)
+"GPT-4o (Detailed + reasoning, T=1)",model,45.4,GPT-4o,"Detailed + reasoning, T=1",This study (API)
+Clinical psych PhD students,human,45.4,,,Mackelprang et al. 2014
+ChatGPT-4o (chat tool),llm_chat_tool,45.71,,,McBain et al. 2025
+Front-line health workers (post),human,46.4,,,Morriss et al. 1999
+"Gemini 2.0 Flash (Minimal, T=1)",model,46.9,Gemini 2.0 Flash,"Minimal, T=1",This study (API)
+"Gemini 2.5 Flash (Detailed + reasoning, T=0)",model,47.2,Gemini 2.5 Flash,"Detailed + reasoning, T=0",This study (API)
+Community MH staff,human,47.4,,,Scheerder et al. 2010
+Crisis line volunteers,human,47.5,,,Scheerder et al. 2010
+"Claude Opus 4 (Minimal, T=0)",model,47.7,Claude Opus 4,"Minimal, T=0",This study (API)
+"Gemini 2.0 Flash (Detailed, T=1)",model,47.8,Gemini 2.0 Flash,"Detailed, T=1",This study (API)
+"Gemini 2.0 Flash (Minimal, T=0)",model,47.9,Gemini 2.0 Flash,"Minimal, T=0",This study (API)
+"Gemini 2.0 Flash (Detailed + reasoning, T=0)",model,48.1,Gemini 2.0 Flash,"Detailed + reasoning, T=0",This study (API)
+"Gemini 2.0 Flash (Detailed, T=0)",model,48.7,Gemini 2.0 Flash,"Detailed, T=0",This study (API)
+Clinical psychologists (Japan),human,48.8,,,Kawashima et al. 2020
+"Gemini 2.0 Flash (Detailed + reasoning, T=1)",model,49.5,Gemini 2.0 Flash,"Detailed + reasoning, T=1",This study (API)
+K-12 school staff (post),human,49.9,,,Shannonhouse et al. 2017a
+"GPT-3.5 Turbo (Detailed + reasoning, T=0)",model,50.1,GPT-3.5 Turbo,"Detailed + reasoning, T=0",This study (API)
+College staff (post),human,50.1,,,Shannonhouse et al. 2017b
+"GPT-4o (Minimal, T=1)",model,50.4,GPT-4o,"Minimal, T=1",This study (API)
+General practitioners (Belgium),human,51.1,,,Scheerder et al. 2010
+"GPT-3.5 Turbo (Detailed + reasoning, T=1)",model,52.2,GPT-3.5 Turbo,"Detailed + reasoning, T=1",This study (API)
+"Claude 3.5 Sonnet (Minimal, T=1)",model,52.9,Claude 3.5 Sonnet,"Minimal, T=1",This study (API)
+College staff (pre),human,52.9,,,Shannonhouse et al. 2017b
+K-12 school staff (pre),human,52.9,,,Shannonhouse et al. 2017a
+"Gemini 2.5 Flash (Detailed, T=0)",model,53.2,Gemini 2.5 Flash,"Detailed, T=0",This study (API)
+Hospital nurses,human,54.4,,,Scheerder et al. 2010
+Gemini 1.5 Pro (chat tool),llm_chat_tool,54.52,,,McBain et al. 2025
+Master's counselors (pre),human,54.7,,,Neimeyer & Bonnelle 1997
+"Helpline volunteers, Lithuania (post)",human,55.04,,,Skruibis et al. 2021
+Rehab/disability staff (post-training),human,55.3,,,Simpson et al. 2007
+Psychiatrists (Italy),human,55.7,,,Palmieri et al. 2008
+"GPT-3.5 Turbo (Detailed, T=0)",model,55.8,GPT-3.5 Turbo,"Detailed, T=0",This study (API)
+"GPT-3.5 Turbo (Detailed, T=1)",model,56.3,GPT-3.5 Turbo,"Detailed, T=1",This study (API)
+Front-line health workers (pre),human,56.8,,,Morriss et al. 1999
+Nurses (Japan),human,61.3,,,Kawashima et al. 2020
+Social workers (Japan),human,62.3,,,Kawashima et al. 2020
+Emergency physicians (Italy),human,63.9,,,Palmieri et al. 2008
+Second-year medical residents,human,68.2,,,Fujisawa et al. 2013
+"ASIST trainees, Lithuania (post)",human,68.32,,,Rimkevičienė et al. 2022
+"ASIST trainees, Lithuania (pre)",human,69.3,,,Rimkevičienė et al. 2022
+Intro psychology students,human,70.36,,,Neimeyer & Bonnelle 1997
+Emergency nurses (Italy),human,70.6,,,Palmieri et al. 2008
+Psychiatric nurses (Italy),human,71.3,,,Palmieri et al. 2008
+"Claude 3.5 Haiku (Minimal, T=1)",model,71.7,Claude 3.5 Haiku,"Minimal, T=1",This study (API)
+"GPT-3.5 Turbo (Minimal, T=0)",model,75.7,GPT-3.5 Turbo,"Minimal, T=0",This study (API)
+"Helpline volunteers, Lithuania (pre)",human,75.84,,,Skruibis et al. 2021
+"Claude 3.5 Haiku (Minimal, T=0)",model,76.2,Claude 3.5 Haiku,"Minimal, T=0",This study (API)
+"GPT-3.5 Turbo (Minimal, T=1)",model,84.0,GPT-3.5 Turbo,"Minimal, T=1",This study (API)
+General practitioners (Italy),human,91.1,,,Palmieri et al. 2008
+Undergraduates,human,100.09,,,Brown & Range 2005
+Medical students (Italy),human,101.1,,,Palmieri et al. 2008

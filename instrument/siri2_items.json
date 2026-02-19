@@ -1,0 +1,152 @@
+[
+  {
+    "item_id": "01",
+    "client": "I decided to call in tonight because I really feel like I might do something to myself... I’ve been thinking about suicide.",
+    "helper_a": "You say you’re suicidal, but what is it that’s really bothering you?",
+    "helper_b": "Can you tell me more about your suicidal feelings?"
+  },
+  {
+    "item_id": "02",
+    "client": "And now my health is going downhill too, on top of all the rest. Without my husband around to care for me anymore, it just seems like the end of the world.",
+    "helper_a": "Try not to worry so much about it. Everything will be all right.",
+    "helper_b": "You must feel pretty lonely and afraid of what might happen."
+  },
+  {
+    "item_id": "03",
+    "client": "But my thoughts have been so terrible... I could never tell them to anybody.",
+    "helper_a": "You can tell me. I’m a professional, and have been trained to be objective about these things.",
+    "helper_b": "So some of your ideas seem so frightening to you, that you imagine other people would be shocked to know you are thinking such things."
+  },
+  {
+    "item_id": "04",
+    "client": "No one can understand the kind of pain I’ve been going through. Sometimes I just feel like I have to hurt myself, so I cut my wrists.",
+    "helper_a": "It seems like you’ve been suffering so much that cutting your wrists is the only way you can make the pain go away.",
+    "helper_b": "But you’re so young, you have so much to live for. How can you think of killing yourself?"
+  },
+  {
+    "item_id": "05",
+    "client": "What are you anyway? Are you a doctor? How do you know what I’ve been going through? You’ve probably always had it pretty soft.",
+    "helper_a": "So you’re wondering if I can understand how you feel.",
+    "helper_b": "You’re not even giving me a chance. I’ve had a pretty rough life too; you’re not the only one who’s seen some hard times."
+  },
+  {
+    "item_id": "06",
+    "client": "My life has been worthless ever since my wife, Emma, died four years ago. The kids are grown and married now, and I’ve been retired from my job at the railroad for some time. It just seems that I’d be better off dead.",
+    "helper_a": "But try to think of what Emma would want for you. She’d want you to continue leading a productive life, wouldn’t she?",
+    "helper_b": "It sounds like everything just collapsed around you when Emma died... But what has happened recently to make things even worse, to make you think that dying is the only way out?"
+  },
+  {
+    "item_id": "07",
+    "client": "I really need help... It’s just... {voice breaks: silence}",
+    "helper_a": "It must be hard for you to talk about what’s bothering you.",
+    "helper_b": "Go on, I’m here to listen to you talk."
+  },
+  {
+    "item_id": "08",
+    "client": "When you sum up my problem like that, it makes it seem less confusing and not so scary.",
+    "helper_a": "See, it really isn’t so bad after all. It certainly isn’t anything you would think of killing yourself over, is it?",
+    "helper_b": "Sometimes talking about problems does make them a bit clearer. I think you realize how dangerous your suicidal feelings were, and that’s why you decided to contact me."
+  },
+  {
+    "item_id": "09",
+    "client": "You were supposed to help me, but you’ve only made things worse.",
+    "helper_a": "I’m sorry. I was only trying to help.",
+    "helper_b": "You sound pretty angry."
+  },
+  {
+    "item_id": "10",
+    "client": "How could you ever help me? Have you ever wanted to kill yourself?",
+    "helper_a": "It sounds like you’re concerned about whether I can understand and help you.",
+    "helper_b": "Sure, I’ve thought about suicide sometimes. But I always found more realistic solutions to my problems."
+  },
+  {
+    "item_id": "11",
+    "client": "I don’t know... this whole thing with my wife really gets to me {sobs}. I try so hard to keep from crying…",
+    "helper_a": "Do you think that the reason it’s hard for you to cry is because you’re a man?",
+    "helper_b": "With all the hurt you’re feeling, it must be impossible to hold those tears in."
+  },
+  {
+    "item_id": "12",
+    "client": "How can I believe in God anymore? No God would ever let this happen to me; I’ve never done anything to deserve what’s happened.",
+    "helper_a": "Things have gotten so bad, that it’s difficult to see any meaning in the things that have happened to you.",
+    "helper_b": "Well, God works in mysterious ways. Maybe this is His way of testing your faith."
+  },
+  {
+    "item_id": "13",
+    "client": "I don’t know why I’m calling you. My family is financially well off, and my husband spends plenty of time with me, even though he has a successful law career. Even my kids have been doing well. They get good marks at school and have lots of free time activities with their friends. But nothing seems to interest me. Life is just a bore…",
+    "helper_a": "Considering all you have going for you, your problems can’t be all that serious. Try to focus more on the positive aspects of your situation.",
+    "helper_b": "So even though things seem to be going well at one level, life still seems pretty depressing, even if it’s hard to say exactly why."
+  },
+  {
+    "item_id": "14",
+    "client": "I have to hang up now. My mother’s coming home soon and I don’t want her to know I’ve been talking to you.",
+    "helper_a": "Okay, but if you keep feeling suicidal, remember you can always call back.",
+    "helper_b": "All right, but first I want you to promise me you won’t do anything to hurt yourself until you call and talk to me. Will you repeat that promise?"
+  },
+  {
+    "item_id": "15",
+    "client": "Is it really true that many people feel this way? I thought I was the only one who had such dreadful, sinful ideas.",
+    "helper_a": "No, there are many people who suffer from mental illness. But with appropriate treatment by a qualified physician, some of these patients can be cured.",
+    "helper_b": "It is true. You’re not the only one who has suicidal thoughts. And you can be helped to get through this crisis, just as others have been."
+  },
+  {
+    "item_id": "16",
+    "client": "I’m so lonely, so tired {crying}. There just isn’t anywhere left to turn.",
+    "helper_a": "You seem so alone, so miserable. Have you been feeling suicidal?",
+    "helper_b": "Come on now. Things can’t be all that bad."
+  },
+  {
+    "item_id": "17",
+    "client": "{Over telephone} It’s hard to talk here, with all these people…",
+    "helper_a": "Would it help if I asked questions?",
+    "helper_b": "Why don’t you call back some other time when you can talk more easily?"
+  },
+  {
+    "item_id": "18",
+    "client": "I have a gun pointed at my head right now, and if you don’t help me, I’m going to pull the trigger!",
+    "helper_a": "You seem to be somewhat upset.",
+    "helper_b": "I want you to put down the gun so we can talk."
+  },
+  {
+    "item_id": "19",
+    "client": "Why should you care about me, anyway?",
+    "helper_a": "I’ve been trained to care about people. That’s my job.",
+    "helper_b": "Because I think your death would be a terrible waste, and it concerns me that things are so bad that you are considering suicide. You need help to get through this critical period."
+  },
+  {
+    "item_id": "20",
+    "client": "I really hate my father! He’s never shown any love for me, just complete disregard.",
+    "helper_a": "You must really be angry at him for not being there when you needed him most.",
+    "helper_b": "You shouldn’t feel that way. After all, he is your father, and he deserves some respect."
+  },
+  {
+    "item_id": "21",
+    "client": "I don’t think there’s really anyone who cares whether I’m alive or dead.",
+    "helper_a": "It sounds like you’re feeling pretty isolated.",
+    "helper_b": "Why do you think that no one cares about you anymore?"
+  },
+  {
+    "item_id": "22",
+    "client": "I tried going to a therapist once before, but it didn’t help... Nothing I do now will change anything.",
+    "helper_a": "You’ve got to look on the bright side! There must be something you can do to make things better, isn’t there?",
+    "helper_b": "Okay, so you’re feeling hopeless, like even a therapist couldn’t help you. But has anyone else been helpful before—maybe a friend, relative, teacher, or clergyman?"
+  },
+  {
+    "item_id": "23",
+    "client": "My psychiatrist tells me I have an anxiety neurosis. Do you think that’s what’s wrong with me?",
+    "helper_a": "I’d like to know what this means to you in this present situation. How do you feel about your problem?",
+    "helper_b": "I’m not sure I agree with that diagnosis. Maybe you should seek out some psychological testing, just to be certain."
+  },
+  {
+    "item_id": "24",
+    "client": "I can’t talk to anybody about my situation. Everyone is against me.",
+    "helper_a": "That isn’t true. There are probably lots of people who care about you if you’d only give them a chance.",
+    "helper_b": "It must be difficult to find help when it’s so hard to trust people."
+  },
+  {
+    "item_id": "25",
+    "client": "{Voice slurred, unclear over telephone}",
+    "helper_a": "You sound so tired. Why don’t you get some sleep and call back in the morning?",
+    "helper_b": "Your voice sounds so sleepy. Have you taken anything?"
+  }
+]
