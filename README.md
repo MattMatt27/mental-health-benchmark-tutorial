@@ -41,7 +41,7 @@ We administered the [Suicide Intervention Response Inventory (SIRI-2)](https://d
 ### Explore the results (no API keys needed)
 
 ```bash
-git clone https://github.com/MattMatt27/mental-health-benchmarking-tutorial.git
+git clone https://github.com/MattMatt27/mental-health-benchmark-tutorial.git
 cd mental-health-benchmarking-tutorial
 
 python -m venv .venv
